@@ -30,4 +30,10 @@ This script is designed to scan IP addresses for open ports. It is useful for ne
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/Pljeka/IP-Port-Scanner.git
-   cd IP-Port-Scanner
+   cd IP-Port-Scanner-main
+
+2. **Run The Script:**
+ ```cd IP-Port-Scanner-main
+ ```cd IP-Port-Scanner
+ ```Run the Setup.bat
+ ```python IP-Port-Scanner
