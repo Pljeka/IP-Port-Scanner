@@ -12,16 +12,14 @@ This script is designed to scan IP addresses for open ports. It is useful for ne
 ## Requirements
 
 - Python 3.6+
-- `pip install scapy` library
-- `pip isntall tqdm` library
-- `pip isntall termcolor` library
-- `pip install IPython` library
+- `scapy` library
+- `tqdm` library
+- `termcolor` library
+- `IPython` library
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the Repository**:
    ```sh
-   git https://github.com/Pljeka/IP-Port-Scanner.git
-   cd ip-port-scan
-And *OPEN* Source python script that use IP Address to scan all the ports.
-
+   git clone https://github.com/Pljeka/IP-Port-Scanner.git
+   cd IP-Port-Scanner
