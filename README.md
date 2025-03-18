@@ -12,10 +12,10 @@ This script is designed to scan IP addresses for open ports. It is useful for ne
 ## Requirements
 
 - Python 3.6+
-- `scapy` library
-- `tqdm` library
-- `termcolor` library
-- `IPython` library
+- `pip install scapy` library
+- `pip isntall tqdm` library
+- `pip isntall termcolor` library
+- `pip install IPython` library
 
 ## Installation
 
