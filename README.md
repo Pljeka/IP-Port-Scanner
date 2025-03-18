@@ -18,7 +18,7 @@ This script is designed to scan IP addresses for open ports. It is useful for ne
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ip-port-scan.git
+   git https://github.com/Pljeka/IP-Port-Scanner.git
    cd ip-port-scan
 And *OPEN* Source python script that use IP Address to scan all the ports.
 
