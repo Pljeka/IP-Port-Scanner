@@ -12,7 +12,7 @@ This script is designed to scan IP addresses for open ports. It is useful for ne
 - **Timeout Configuration**: Allows users to set a timeout value for each port scan attempt, ensuring the script does not hang indefinitely.
 - **Progress Bar**: Displays a progress bar using `tqdm` to show the scanning progress.
 - **Colored Output**: Uses `termcolor` to provide colored output, making it easier to distinguish between open and closed ports.
-- **Output to File**: Optionally saves the results to a specified output file in JSON format.
+- **Output to File**: Optionally saves the results to a specified output file in .txt format.
 - **Interactive Prompts**: Prompts the user for input, including the target IP address, port range, timeout value, number of threads, and output file name.
 - **Error Handling**: Includes error handling to manage exceptions and interruptions gracefully.
 - **Developer Information**: Displays the developer's name and includes a notice about unauthorized modifications.
