@@ -33,8 +33,9 @@ This script is designed to scan IP addresses for open ports. It is useful for ne
    cd IP-Port-Scanner-main
 
 2. **Run The Script:**
- ```cd IP-Port-Scanner-main
- cd IP-Port-Scanner
- Run the Setup.bat
- python IP-Port-Scanner.py
- ```
+```
+cd IP-Port-Scanner-main
+cd IP-Port-Scanner
+Run the Setup.bat
+python IPportscanner.py
+```
